@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Academic</title>
+    <title>Deep Learning | Arnab Karmakar</title>
     <link>https://arnabk001.github.io/tag/deep-learning/</link>
       <atom:link href="https://arnabk001.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://arnabk001.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://arnabk001.github.io/media/icon_hud07539781f7a7f9ef617130ce2dfae22_87439_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
       <link>https://arnabk001.github.io/tag/deep-learning/</link>
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://arnabk001.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://arnabk001.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>CapsuleGAN - Improving GANs with CapsuleNET</title>
+      <link>https://arnabk001.github.io/project/4_capsulegan/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://arnabk001.github.io/project/4_capsulegan/</guid>
+      <description>&lt;p&gt;Generative Adversarial Networks (GANs) have shown remarkable success in generating realistic images, but they still suffer from some limitations such as mode collapse and instability during training. One approach to addressing these issues is to use Capsule Networks, a deep learning architecture that can better handle hierarchical representations and spatial relationships.&lt;/p&gt;
+&lt;p&gt;Capsule Networks were introduced by Hinton et al. in 2017 as an alternative to convolutional neural networks (CNNs). They are composed of capsules, which are groups of neurons that encode the presence and pose of an object in an image. Capsule Networks are designed to better handle hierarchical representations by modeling the parts of an object and their spatial relationships.&lt;/p&gt;
+&lt;p&gt;Our project implements the Capsule Network architecture in the discriminator of a GAN model and incorporates the Capsule Network margin loss into the objective function. Our results show that CapsuleGAN generates more diverse and realistic images than traditional GAN models. We also found that CapsuleGAN is more stable during training as evidenced by the lower variation in the generator and discriminator losses. We used the CIFAR-10 dataset to train and evaluate our model.&lt;/p&gt;
+&lt;p&gt;The Capsule Network architecture was particularly effective in capturing spatial relationships between objects, leading to more realistic and coherent images. Capsule Networks can better handle hierarchical representations and spatial relationships, which are important for generating high-quality images. Incorporating the margin loss of Capsule Networks can also improve the stability of GANs during training.&lt;/p&gt;
+&lt;p&gt;In conclusion, our project demonstrates the potential of Capsule Networks in enhancing the performance of GAN models and advancing the field of generative deep learning. Future research could explore further improvements by incorporating Capsule Networks into other types of GAN models or applying them to different domains beyond image generation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Early Fault Detection of Turbo Engines using Time Series Analysis</title>
+      <link>https://arnabk001.github.io/project/2_turboengine_lstm/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://arnabk001.github.io/project/2_turboengine_lstm/</guid>
+      <description>&lt;p&gt;Developing a method for predicting the remaining useful life (RUL) of a dynamic system is essential to deploy timely maintenance operations and extending the life of service. In this project, we propose an LSTM based Time Series Analysis method for early fault detection and alert system. As a first step, we will use the NASA Turbo Engines dataset for training our algorithm. The method will use historical data from 26 sensors to predict the future state (RUL) of the Turbo Engine. Further, we would like to extend this model into the real world predictive maintenance task. The project has the potential to improve the safety and reliability of any dynamic system performing under stress (e.g. aircraft operations) by providing early detection of faults.&lt;/p&gt;
 </description>
     </item>
     

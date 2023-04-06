@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning, Biomedical AI | Arnab Karmakar</title>
+    <link>https://arnabk001.github.io/tag/deep-learning-biomedical-ai/</link>
+      <atom:link href="https://arnabk001.github.io/tag/deep-learning-biomedical-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning, Biomedical AI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arnabk001.github.io/media/icon_hud07539781f7a7f9ef617130ce2dfae22_87439_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning, Biomedical AI</title>
+      <link>https://arnabk001.github.io/tag/deep-learning-biomedical-ai/</link>
+    </image>
+    
+    <item>
+      <title>Few-shot Image Registration of brain MRI using Meta Learning</title>
+      <link>https://arnabk001.github.io/project/1_fewshot_mri/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://arnabk001.github.io/project/1_fewshot_mri/</guid>
+      <description>&lt;p&gt;Medical image registration is a crucial task in medical image analysis and has several applications, such as surgical planning, disease diagnosis, and treatment monitoring. Traditional image registration approaches require large amounts of annotated data, making them computationally expensive and time-consuming. However, with the emergence of few-shot learning, researchers have been exploring novel ways to perform image registration with limited annotated data.&lt;/p&gt;
+&lt;p&gt;Our project aims to develop a modified synthmorph model with the iMAML (Model-Agnostic Meta-Learning with implicit gradients)[1] approach and weighted training for few-shot learning. The project&amp;rsquo;s goal is to register brain MRIs with limited annotated data using a few-shot learning approach. The synthmorph model is a deep generative model that learns to map images from one domain to another using a small number of training examples. The model&amp;rsquo;s objective is to generate new images in the target domain that are similar to the input images in the source domain.&lt;/p&gt;
+&lt;p&gt;We are modifying the synthmorph model to incorporate the iMAML approach to enable the model to adapt to new tasks with few-shot examples quickly. We are also incorporating weighted training to the modified model to improve its performance on rare or difficult cases.&lt;/p&gt;
+&lt;p&gt;Our approach involves training the modified synthmorph model brain MRIs datasets, where we randomly select a small number of images from the dataset for training, evaluating the model&amp;rsquo;s performance on a test set and compare its results with traditional image registration approaches. We are using PyTorch to implement the model and evaluate its performance.&lt;/p&gt;
+&lt;p&gt;Our preliminary results are promising in registering brain MRIs using few-shot learning. We believe that our approach can significantly improve medical image registration and pave the way for new applications in medical image analysis.&lt;/p&gt;
+&lt;p&gt;In conclusion, the proposed project has the potential to advance the field of medical image analysis and provide valuable tools for healthcare professionals to improve patient diagnosis and treatment, potentiallly revolutionizing medical image registration and make it more efficient and accessible.&lt;/p&gt;
+&lt;h2 id=&#34;-----------&#34;&gt;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;&lt;/h2&gt;
+&lt;p&gt;[1] &lt;em&gt;Rajeswaran, Aravind, et al. &amp;ldquo;Meta-learning with implicit gradients.&amp;rdquo; Advances in neural information processing systems 32 (2019).&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

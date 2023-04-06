@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning, Remote Sensing | Arnab Karmakar</title>
+    <link>https://arnabk001.github.io/tag/deep-learning-remote-sensing/</link>
+      <atom:link href="https://arnabk001.github.io/tag/deep-learning-remote-sensing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning, Remote Sensing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arnabk001.github.io/media/icon_hud07539781f7a7f9ef617130ce2dfae22_87439_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning, Remote Sensing</title>
+      <link>https://arnabk001.github.io/tag/deep-learning-remote-sensing/</link>
+    </image>
+    
+    <item>
+      <title>Electrical Substation Detection from Satellite Data</title>
+      <link>https://arnabk001.github.io/project/3_substation_detection/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://arnabk001.github.io/project/3_substation_detection/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Electrical substations are critical components of the power grid, responsible for converting high voltage electricity into lower voltages that can be used by homes and businesses. However, locating and identifying these substations can be challenging, especially in large areas with complex terrain. This is where satellite imagery and deep learning can come in handy. In this project, we explore how to use these technologies to detect electrical substations from satellite images.&lt;/p&gt;
+&lt;h2 id=&#34;data-collection-and-preprocessing&#34;&gt;Data Collection and Preprocessing&lt;/h2&gt;
+&lt;p&gt;To train our deep learning model, we needed a dataset of satellite images labeled with the locations of electrical substations. We obtained such a dataset from the Google Earth Engine API (stored already in a dataset &lt;a href=&#34;https://www.kaggle.com/arnabkarmakar001/substation-detection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;), which combines a wide range of satellite imagery and geospatial data. The dataset included high-resolution images of various regions around the world, with labels indicating the locations of electrical substations.&lt;/p&gt;
+&lt;p&gt;To preprocess the data, we first resized the images to a smaller resolution to reduce computational requirements. We also normalized the pixel values of the images to a range of 0 to 1. To further improve the performance of our model, we applied extensive data augmentation techniques, including random rotations, translations, and zooms. This helped our model learn to detect electrical substations under a variety of conditions and perspectives.&lt;/p&gt;
+&lt;h2 id=&#34;model-architecture-and-training&#34;&gt;Model Architecture and Training&lt;/h2&gt;
+&lt;p&gt;For our deep learning model, we chose the U-Net architecture, which is commonly used in image segmentation tasks. U-Net consists of a contracting path, which captures the context and spatial information of the input image, and an expanding path, which uses this information to generate a segmentation mask of the image. We modified the U-Net architecture to output a binary mask indicating the presence or absence of an electrical substation in the input image.&lt;/p&gt;
+&lt;p&gt;We trained our model using TensorFlow, a popular deep learning library. We used a combination of binary cross-entropy loss and dice loss as the training objective, which helped our model learn to accurately localize electrical substations in the input images. We also used an Adam optimizer with a learning rate of 0.0001 to train the model.&lt;/p&gt;
+&lt;h2 id=&#34;results-and-future-work&#34;&gt;Results and Future Work&lt;/h2&gt;
+&lt;p&gt;Our trained model achieved an accuracy of 95% in localizing electrical substations in the test dataset. This is a promising result, considering the complexity and variability of the input images. However, there is still room for improvement, especially in regions with dense vegetation or complex terrain.&lt;/p&gt;
+&lt;p&gt;In the future, we plan to explore other deep learning architectures and data augmentation techniques to improve the performance of our model. We also plan to test our model on other datasets and compare its performance with other state-of-the-art methods for detecting electrical substations from satellite images. Overall, we believe that our project has the potential to help power grid operators and researchers locate and monitor electrical substations more effectively and efficiently.&lt;/p&gt;
+&lt;p&gt;The code can be found &lt;a href=&#34;https://github.com/arnabk001/Electrical-Substation-Detection-from-Satellite-Images/blob/main/electrical-substation-detection-semantic-segment.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
