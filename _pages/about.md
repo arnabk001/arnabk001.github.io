@@ -6,7 +6,7 @@ subtitle: Machine Learning Engineer
 
 profile:
   align: right
-  image: dp.jpg
+  image: dp.jpeg
   image_circular: False # crops the image to make it circular
   more_info: >
     <p>206-731-0687</p>
