@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there! I'm Arnab, a seasoned Machine Learning Engineer and a Master's student at the University of Washington. Passionate about creating a unified artificial general intelligence (AGI) model, I draw inspiration from the intricacies of the human brain, weaving its brilliance into my machine learning endeavors. With a background at the Indian Space Research Organisation, I've honed my skills in both academic and industrial settings. Currently, I am working in multimodal machine learning at the RAIVN lab, under the guidance of Dr. Ranjay Krishna. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Let's connect and explore the endless possibilities at the intersection of innovation and machine learning — because the best projects begin with a simple conversation.
