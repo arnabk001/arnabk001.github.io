@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 1
+title: Attribute conditioned face image generation using diffusion models
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
+tags: 
+  - Computer Vision
+  - Robotics
 ---
 
 Every project has a beautiful feature showcase page.
@@ -35,6 +38,16 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
+
+<!-- Add the following code to render tags -->
+<div class="tags">
+  <strong>Tags:</strong>
+  {% for tag in page.tags %}
+    <span class="badge badge-primary">{{ tag }}</span>
+  {% endfor %}
+</div>
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

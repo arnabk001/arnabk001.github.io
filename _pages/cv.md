@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: page
 permalink: /cv/
 title: CV
 nav: false
