@@ -9,8 +9,8 @@ profile:
   image: ak1.jpg
   image_circular: False # crops the image to make it circular
   more_info: >
-    <p style="text-align:center">206-731-0687</p>
-    <p style="text-align:center">Seattle, WA, USA</p>
+    <p 206-731-0687</p>
+    <p Seattle, WA, USA</p>
 
 news: true  # includes a list of news items
 latest_posts: False  # includes a list of the newest posts
