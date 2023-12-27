@@ -3,6 +3,7 @@ layout: page
 title: Face-diffusion
 description: Attribute conditioned face image generation using diffusion models
 img: assets/img/12.jpg
+redirect: https://github.com/arnabk001/face-diffusion/tree/main
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
