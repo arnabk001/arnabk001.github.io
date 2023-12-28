@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Engineer
+# subtitle: Machine Learning Engineer
 
 profile:
   align: right
@@ -18,9 +18,7 @@ selected_papers: True # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there! 
-
-I'm Arnab, a seasoned Machine Learning Engineer and a Master's student at the Department of Electrical and Computer Engineering, University of Washington, Seattle.
+Hey there! I'm Arnab, a seasoned Machine Learning Engineer and a Master's student at the Department of Electrical and Computer Engineering, University of Washington, Seattle.
 
 As a Graduate Researcher at the Reasoning, AI, and VisioN (RAIVN) Lab under the guidance of Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/index.html), my work revolves around Multimodal Machine Learning, specifically enhancing the compositionality and interpretability of Large Vision Language Models.
 
