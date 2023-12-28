@@ -2,7 +2,7 @@
 layout: page
 title: Face-diffusion
 description: Attribute conditioned face image generation using diffusion models
-img: assets/img/12.jpg
+img: assets/img/project1.png
 redirect: https://github.com/arnabk001/face-diffusion/tree/main
 importance: 1
 category: work

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Robo Race (MushR)
+description: Robotic Localization, Path planning and Controls in ROS for the Robotics Race at University of Washington
+img: assets/img/roborace.jpg
 importance: 2
 category: work
+redirection: https://github.com/arnabk001/robo-race
 giscus_comments: true
 ---
 
