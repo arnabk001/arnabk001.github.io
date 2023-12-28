@@ -18,9 +18,13 @@ selected_papers: True # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there! I'm Arnab, a seasoned Machine Learning Engineer and a Master's student at the University of Washington. 
+Hey there! 
 
-Passionate about creating a unified artificial general intelligence (AGI) model, I draw inspiration from the intricacies of the human brain, weaving its brilliance into my machine learning endeavors. As an Applied Research Scientist at the Indian Space Research Organisation (ISRO), I've honed my skills in both academic and industrial settings. Currently, I am working in multimodal machine learning at the RAIVN lab, under the guidance of Dr. Ranjay Krishna. 
+I'm Arnab, a seasoned Machine Learning Engineer and a Master's student at the Department of Electrical and Computer Engineering, University of Washington, Seattle.
 
-Let's connect and explore the endless possibilities at the intersection of innovation and machine learning — because the best projects begin with a simple conversation.
+As a Graduate Researcher at the Reasoning, AI, and VisioN (RAIVN) Lab under the guidance of Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/index.html), my work revolves around Multimodal Machine Learning, specifically enhancing the compositionality and interpretability of Large Vision Language Models.
+
+Prior to my Master's, I served as an Applied Research Scientist at the Human Space Flight Center, Indian Space Research Organization (ISRO). In this role, I led the development of a real-time astronaut health monitoring system using Machine Learning. Notably, I led the Risk Assessment team and Crew Training Simulator team for ISRO's first manned mission, 'Gaganyaan.'
+
+I am always interested to discuss about the nuances and recent developments in the evolving field of AI. Let's connect and explore the endless possibilities at the intersection of innovation and machine learning — because the best projects often begin with a simple conversation.
 

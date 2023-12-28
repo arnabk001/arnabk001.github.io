@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ranked 5th in the Robotics Race of UW (EE545) [post]
+Ranked 5th in the Robotics Race of UW [(link)](https://github.com/arnabk001/robo-race)

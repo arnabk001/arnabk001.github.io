@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed the Computer Vision Project on GenAI: Attribute conditioned facial image generation using diffusion models 
+Completed the Computer Vision Project on Generative AI: Attribute conditioned facial image generation using diffusion models [(link)](https://github.com/arnabk001/face-diffusion)

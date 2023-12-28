@@ -5,8 +5,7 @@ description: Robotic Localization, Path planning and Controls in ROS for the Rob
 img: assets/img/roborace.jpg
 importance: 2
 category: work
-redirection: https://github.com/arnabk001/robo-race
-giscus_comments: true
+redirect: https://github.com/arnabk001/robo-race
 ---
 
 Every project has a beautiful feature showcase page.

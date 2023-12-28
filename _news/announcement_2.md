@@ -1,4 +1,11 @@
+---
+layout: post
+date: 2023-11-07 07:59:00-0400
+inline: true
+related_posts: false
+---
 
+Joined the [Reasoning, AI, and VisioN (RAIVN) Lab](https://github.com/arnabk001/robo-race) under the guidance of Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/index.html)
 
 
 
