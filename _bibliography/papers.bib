@@ -9,7 +9,11 @@
   booktitle={2018 IEEE Recent Advances in Intelligent Computational Systems (RAICS)},
   pages={122--126},
   year={2018},
-  organization={IEEE}
+  organization={IEEE},
+  html = {https://ieeexplore.ieee.org/abstract/document/8634903},
+  abstract = {Detecting star clusters have always been an important research problem in Astronomy. Although images do not convey very detailed information in detecting stellar density enhancements, we attempt to understand whether advanced machine learning techniques can reveal patterns that would assist in drawing better inferences from the available image data. This paper describes an unsupervised approach in detecting star clusters using Deep Variational Autoencoder combined with a Gaussian Mixture Model. We show that our method works significantly well in comparison with state-of-the-art detection algorithm in recognizing a variety of star clusters even in the presence of noise and distortion.},
+  pdf = {1809.01434.pdf},
+  bibtex_show = {true}
 }
 
 @inproceedings{karmakar2020robust,
@@ -18,7 +22,11 @@
   booktitle={Computer Vision, Pattern Recognition, Image Processing, and Graphics: 7th National Conference, NCVPRIPG 2019, Hubballi, India, December 22--24, 2019, Revised Selected Papers 7},
   pages={89--99},
   year={2020},
-  organization={Springer Singapore}
+  organization={Springer Singapore},
+  html={https://link.springer.com/chapter/10.1007/978-981-15-8697-2_8},
+  pdf = {2001.01259.pdf},
+  abstract = {Generating photorealistic images of human subjects in any unseen pose have crucial applications in generating a complete appearance model of the subject. However, from a computer vision perspective, this task becomes significantly challenging due to the inability of modelling the data distribution conditioned on pose. Existing methods use a complicated pose transformation model with various additional features such as foreground segmentation, human body parsing etc. to achieve robustness that leads to computational overhead. In this work, we propose a simple yet effective pose transformation GAN by utilizing the Residual Learning method without any additional feature engineering to generate human images in any arbitrary pose. Using effective data augmentation techniques and cleverly tuning the model, we achieve robustness in terms of illumination, occlusion, distortion and scale. We present a detailed study, both qualitative and quantitative, to demonstrate the superiority of our model over the existing methods on two large datasets.},
+  bibtex_show = {true}
 }
 
 @inproceedings{sahu20193d,
@@ -27,7 +35,9 @@
   booktitle={2019 International Conference on Range Technology (ICORT)},
   pages={1--5},
   year={2019},
-  organization={IEEE}
+  organization={IEEE},
+  html = {https://ieeexplore.ieee.org/abstract/document/9069621},
+  bibtex_show = {true}
 }
 
 @inproceedings{choudhary2021domain,
@@ -37,16 +47,22 @@
   pages={81--92},
   year={2021},
   organization={Springer Singapore},
-  url = {https://arxiv.org/2103.04870},
-  preview = {egoreid1.png}
+  html = {https://link.springer.com/chapter/10.1007/978-981-16-1103-2_8},
+  pdf = {2103.04870.pdf},
+  preview = {egoreid1.png},
+  abstract = {Person re-identification (re-ID) in first-person (egocentric) vision is a fairly new and unexplored problem. With the increase of wearable video recording devices, egocentric data becomes readily available, and person re-identification has the potential to benefit greatly from this. However, there is a significant lack of large scale structured egocentric datasets for person re-identification, due to the poor video quality and lack of individuals in most of the recorded content. Although a lot of research has been done in person re-identification based on fixed surveillance cameras, these do not directly benefit egocentric re-ID. Machine learning models trained on the publicly available large scale re-ID datasets cannot be applied to egocentric re-ID due to the dataset bias problem. The proposed algorithm makes use of neural style transfer (NST) that incorporates a variant of Convolutional Neural Network (CNN) to utilize the benefits of both fixed camera vision and firstperson vision. NST generates images having features from both egocentric datasets and fixed camera datasets, that are fed through a VGG-16 network trained on a fixed-camera dataset for feature extraction. These extracted features are then used to re-identify individuals. The fixed camera dataset Market-1501 and the first-person dataset EGO Re-ID are applied for this work and the results are on par with the present re-identification models in the egocentric domain.},
+  bibtex_show = {true}
 }
 
 @article{karmakar2021pose,
   title={Pose invariant person re-identification using robust pose-transformation gan},
   author={Karmakar, Arnab and Mishra, Deepak},
   journal={arXiv preprint arXiv:2105.00930},
-  year={2021},
+  year={2022},
   selected = {true},
-  url = {https://arxiv.org/2105.00930},
-  preview = {reid1.jpg}
+  html = {https://arxiv.org/2105.00930},
+  preview = {reid1.png},
+  pdf = {2105.00930.pdf},
+  abstract = {The objective of person re-identification (re-ID) is to retrieve a person's images from an image gallery, given a single instance of the person of interest. Despite several advancements, learning discriminative identity-sensitive and viewpoint invariant features for robust Person Re-identification is a major challenge owing to large pose variation of humans. This paper proposes a re-ID pipeline which utilizes the image generation capability of Generative Adversarial Networks combined with pose clustering and feature fusion to achieve pose invariant feature learning. The objective is to model a given person under different viewpoints and large pose changes and extract the most discriminative features from all appearances. The pose transformation GAN (pt-GAN) module is trained to generate a person's image in any given pose. In order to identify the most significant poses for discriminative feature extraction, a Pose Clustering module is proposed. The given instance of the person is modelled in varying poses and these features are effectively combined through the Feature Fusion Network. The final re-ID model consisting of these 3 sub blocks, alleviates the pose dependence in person re-ID. Also, The proposed model is robust to occlusion, scale, rotation and illumination, providing a framework for viewpoint invariant feature learning. The proposed method outperforms the stateof-the-art GAN based models in 4 benchmark datasets. It also surpasses the state-of-the-art models that report higher re-ID accuracy in terms of improvement over baseline.},
+  bibtex_show = {true}
 }
