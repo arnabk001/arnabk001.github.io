@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Image Captioning (with attention)
+title: Image Captioning with attention
 description: 
 img: assets/img/project5.png
 importance: 5

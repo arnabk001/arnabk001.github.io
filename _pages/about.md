@@ -9,7 +9,7 @@ profile:
   image: ak1.jpg
   image_circular: False # crops the image to make it circular
   more_info: >
-    <p>206-731-0687</p>
+    <p>206-731-0687 <br></p>
     <p>Seattle, WA, USA</p>
 
 news: true  # includes a list of news items
@@ -18,7 +18,9 @@ selected_papers: True # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there! I'm Arnab, a Master's student specializing in Robotics and Machine Learning at the Department of Electrical and Computer Engineering, University of Washington, Seattle.
+Hey there! 
+
+I'm Arnab, a Master's student specializing in Robotics and Machine Learning at the Department of Electrical and Computer Engineering, University of Washington, Seattle.
 
 As a Graduate Researcher at the Reasoning, AI, and VisioN (RAIVN) Lab under the guidance of Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/index.html), my work revolves around Multimodal Machine Learning, specifically enhancing the compositionality and interpretability of Large Vision Language Models.
 
