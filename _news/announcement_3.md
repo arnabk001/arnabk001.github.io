@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-14 07:59:00-0400
+date: 2024-03-07 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Ranked 5th in the Robotics Race of UW [(link)](https://github.com/arnabk001/robo-race)
+Completed the Project "Analysis and Benchmarking of Prompt Injection Attacks on Back Box Large Language Models (LLMs)" [(link)](https://drive.google.com/file/d/1oCd6pOcjsSMw-ZS19EvVNkH20w9oSWIF/view?usp=drive_link)

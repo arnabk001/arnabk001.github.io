@@ -9,8 +9,7 @@ profile:
   image: ak1.jpg
   image_circular: False # crops the image to make it circular
   more_info: >
-    <p>206-731-0687 <br></p>
-    <p>Seattle, WA, USA</p>
+    <p>arnabk1 [at] uw [dot] edu <br></p>
 
 news: true  # includes a list of news items
 latest_posts: False  # includes a list of the newest posts
@@ -20,11 +19,13 @@ social: true  # includes social icons at the bottom of the page
 
 Hey there! 
 
-I'm Arnab, a Master's student specializing in Robotics and Machine Learning at the Department of Electrical and Computer Engineering, University of Washington, Seattle.
+I'm Arnab, a Master's student specializing in Machine Learning and Computer Vision at the Department of Electrical and Computer Engineering, University of Washington, Seattle.
 
-As a Graduate Researcher at the Reasoning, AI, and VisioN (RAIVN) Lab under the guidance of Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/index.html), my work revolves around Multimodal Machine Learning, specifically enhancing the compositionality and interpretability of Large Vision Language Models.
+As a Graduate Researcher at the Reasoning, AI, and VisioN (RAIVN) Lab under the guidance of Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/index.html), my work revolves around Multimodal Machine Learning. My research focuses on efficient representation learning methods for foundation models, improving image and video understanding.
 
-Prior to my Master's, I served as an Applied Research Scientist at the Human Space Flight Center, Indian Space Research Organization (ISRO). In this role, I led the development of a real-time astronaut health monitoring system using Machine Learning. Notably, I led the Risk Assessment team and Crew Training Simulator team for ISRO's first manned mission, 'Gaganyaan.'
+I am a Machine Learning Intern at [Truemedia.org](https://www.truemedia.org/) for Summer 2024 where I am responsible for developing end-to-end ML models for detecting image manipulations. 
 
-I am always interested to discuss about the nuances and recent developments in the evolving field of AI. Let's connect and explore the endless possibilities at the intersection of innovation and machine learning — because the best projects often begin with a simple conversation.
+Prior to my Master's, I served as an Applied Research Scientist at the Human Space Flight Center, Indian Space Research Organization (ISRO). In this role, I led the development of a real-time astronaut health monitoring system using Machine Learning. Notably, I led the Crew Training Simulator team and Risk Assessment team for ISRO's first manned mission, 'Gaganyaan.'
+
+I am always interested to discuss about the nuances and recent developments in the evolving field of AI. The best projects often begin with a simple conversation.
 

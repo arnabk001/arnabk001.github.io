@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Our GPU Programming project on improving GEMM kernels usig Stream-k won the 2nd best project award from AMD! [[ppt]](https://docs.google.com/presentation/d/1IJGZ4SK-CVFIeAQYrqFdeuoh93mt3Gq7kO9zEeqTx1Q/edit?usp=sharing) [[report]] (https://drive.google.com/file/d/10bVgc1WEuWYVBGzagConAaxm8mivyhg4/view?usp=sharing)
+Joined the [Reasoning, AI, and VisioN (RAIVN) Lab](https://github.com/arnabk001/robo-race) as a Graduate Research Assistant under the guidance of Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/index.html)
 
 
 
