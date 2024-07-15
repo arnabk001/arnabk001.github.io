@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://arnabk001.github.io/sitemap.xml
