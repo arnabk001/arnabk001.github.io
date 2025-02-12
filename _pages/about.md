@@ -19,13 +19,12 @@ social: true  # includes social icons at the bottom of the page
 
 Hey there! 
 
-I'm Arnab, a Master's student specializing in Machine Learning and Computer Vision at the Department of Electrical and Computer Engineering, University of Washington, Seattle.
+I'm Arnab, a Master's student specializing in Machine Learning and GPU Computing at the Department of Electrical and Computer Engineering, University of Washington, Seattle.
 
-As a Graduate Researcher at the Reasoning, AI, and VisioN (RAIVN) Lab under the guidance of Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/index.html), my work revolves around Multimodal Machine Learning. My research focuses on efficient representation learning methods for foundation models, improving image and video understanding.
+As a Graduate Researcher at the [Reasoning, AI, and VisioN (RAIVN) Lab](https://raivn.cs.washington.edu/) under the guidance of Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/index.html), my work revolves around Multimodal Machine Learning. My research focuses on efficient representation learning methods for foundation models, improving image and video understanding.
 
-I am a Machine Learning Intern at [Truemedia.org](https://www.truemedia.org/) for Summer 2024 where I am responsible for developing end-to-end ML models for detecting image manipulations. 
+I recently completed my research internship at [Brainchip](https://brainchip.com/) where I developed an efficent embedding compression technique to make low power edge devices faster. During summer, I interned at [Truemedia.org](https://www.truemedia.org/) where I was responsible for developing end-to-end ML models for detecting deepfake media. 
 
-Prior to my Master's, I served as an Applied Research Scientist at the Human Space Flight Center, Indian Space Research Organization (ISRO). In this role, I led the development of a real-time astronaut health monitoring system using Machine Learning. Notably, I led the Crew Training Simulator team and Risk Assessment team for ISRO's first manned mission, 'Gaganyaan.'
+Prior to my Master's, I was a Senior Research Scientist at the Human Space Flight Center, Indian Space Research Organization (ISRO). In this role, I led the development of a real-time astronaut health monitoring system using Machine Learning. Notably, I led the Crew Training Simulator team and Risk Assessment team for ISRO's first manned mission, 'Gaganyaan.'
 
-I am always interested to discuss about the nuances and recent developments in the evolving field of AI. The best projects often begin with a simple conversation.
-
+I am always interested to discuss about the recent developments and future directions in the evolving field of AI. The best projects often begin with a simple conversation.
